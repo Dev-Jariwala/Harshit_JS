@@ -1,4 +1,4 @@
-// Ternary Operator
+// Ternary Operator.
 
 let age = 13;
 // using if else

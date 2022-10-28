@@ -9,7 +9,7 @@
   console.log(num1<num2); //false;
 
   console.log(num1>=7); //true if num1 is grater than or equal to 7.
-  console.log(num1<=7); //true if num1 is lower than or equal to 7.
+  console.log(num1<=7); //true if num1 is lower than or equal to 7
 
 
 //                             == VS ===

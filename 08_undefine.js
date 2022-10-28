@@ -10,7 +10,7 @@ console.log(typeof myVariable);
 
 // This will return object which is bug in JavaScript
 // they are not fixing it becoz old code written on this bug basics
-// will have to changed and frameWorks will also suffer.
+// will have to changed and frameWorks will also suffer
 
 
 // -------------------------BigInt----------------------------------------------

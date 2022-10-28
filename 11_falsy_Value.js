@@ -6,7 +6,7 @@
 // 4). undefined
 // 5). 0
 
-// any thing else then above 5 falsy values are truthy values.
+// any thing else then above 5 falsy values are truthy values
 
 
 let value = "";

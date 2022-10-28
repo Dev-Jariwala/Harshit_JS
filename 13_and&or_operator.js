@@ -11,7 +11,7 @@ if(age>=18 && liecense){
   console.log("driver is not eligible to drive car");
 }
 
-// if person has any one identity card from adhar card or pan card he is allowed in show.
+// if person has any one identity card from adhar card or pan card he is allowed in show
 
 let adharCard = false;
 let panCard = true;

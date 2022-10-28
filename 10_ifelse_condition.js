@@ -1,6 +1,6 @@
 // if else condition.
 
-// voting eligiblity checking system.
+// voting eligiblity checking system
   let age = 17;
 
   if(age>=18){
