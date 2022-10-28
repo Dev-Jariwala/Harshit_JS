@@ -1,4 +1,4 @@
-// Object Destructuring.
+// Object Destructuring
 
 const band = {
   bandName: "Led Zeppielin",
