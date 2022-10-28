@@ -1,4 +1,4 @@
-// nested destructuring.
+// nested destructuring
 const users = [
   {userId: 1, firstName:'dev', gender: 'male'},
   {userId: 2, firstName:'nikhil', gender: 'male'},

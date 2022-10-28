@@ -1,4 +1,4 @@
-// Function Types.
+// Function Types
 
 // Function Declaration.
   // function singHappyBirthday(){

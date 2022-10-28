@@ -1,4 +1,4 @@
-// functions.
+// functions
 // we can asign a work to function which we will need to do repeatedly.
 
 // for example if we want to print happy birthday song repeatedly.
