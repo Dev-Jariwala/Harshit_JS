@@ -1,6 +1,6 @@
 // for loop.
 
-// Here also we want to print number from 0 to 9.
+// Here also we want to print number from 0 to 9
 
 for(var i = 0;i<=9;i++){
   console.log(i);

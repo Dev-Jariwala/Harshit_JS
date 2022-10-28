@@ -1,5 +1,5 @@
 // While Loop.
-// suppose if we want to print number from 0 to 9.
+// suppose if we want to print number from 0 to 9
 
 let i = 0;
 

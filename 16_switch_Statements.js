@@ -1,4 +1,4 @@
-// Switch Statements.
+// Switch Statements
 
 let day = 0;
 
