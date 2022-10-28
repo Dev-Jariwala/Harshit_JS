@@ -1,4 +1,4 @@
-// use const for creating array.
+// use const for creating array
 
 // heap memory ["apple", "mango"] 0x11
 

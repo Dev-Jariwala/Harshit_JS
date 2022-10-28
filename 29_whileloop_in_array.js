@@ -1,4 +1,4 @@
-// While loop in array
+// While loop in array.
 
 let fruits = ["apple", "mango", "bannana", "grapes", "orange", "kiwi"];
 let fruits2 = [];

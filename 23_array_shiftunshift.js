@@ -1,4 +1,4 @@
-// array shift and unshift.
+// array shift and unshift
   let fruits = ["apple", "mango", "banana", "grapes", "kiwi"];
   console.log(fruits);
 
@@ -9,7 +9,7 @@
   console.log(fruits);
   console.log("Added Fruit is: "+ addedFruit);
   console.log(fruits[0]);
-  
+
 // shift.
   fruits.shift();
   console.log(fruits);

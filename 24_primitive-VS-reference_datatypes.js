@@ -1,4 +1,4 @@
-// Primitive VS Reference Data Type.
+// Primitive VS Reference Data Type
 
 // Primitive type.
 

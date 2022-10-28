@@ -1,4 +1,4 @@
-// difference between dot and brackets in objects.
+// difference between dot and brackets in objects
 const key = "email";
 const person = {
   name: "Dev",

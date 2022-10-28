@@ -1,5 +1,5 @@
 
-// how to clone array.
+// how to clone array
 
   let array1 = ["item1", "item2"];
 

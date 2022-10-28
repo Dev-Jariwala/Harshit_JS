@@ -1,4 +1,4 @@
-// For loop in array
+// For loop in array.
 let fruits = ["apple", "banana", "orange", "grapes", "kiwi"];
 let fruits2 = [];
 for(let i=0; i<fruits.length; i++){

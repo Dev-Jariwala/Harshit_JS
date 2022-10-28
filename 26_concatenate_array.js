@@ -1,4 +1,4 @@
-// How to concatenate array.
+// How to concatenate array
 
   let array1 = ["item1", "item2"];
   let array2 = ["item3", "item4"];

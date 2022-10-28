@@ -1,4 +1,4 @@
-// Objects -- object is a reference type
+// Objects -- object is a reference type.
 // arrays are good but not sufficient
 // for real world data
 

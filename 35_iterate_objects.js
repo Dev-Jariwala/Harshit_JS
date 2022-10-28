@@ -1,4 +1,4 @@
-// How to Iterate Objects.
+// How to Iterate Objects
 
 const person = {
   name: "Dev",
