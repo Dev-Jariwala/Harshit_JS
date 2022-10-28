@@ -10,6 +10,6 @@ let firstName = "dev";
 // let aboutMe = "My name is " + firstName + " and my age is " + age;
 // console.log(aboutMe);
 
-// This is way number 2.
+// This is way number 2
 let aboutMe = `My name is ${firstName} and my age is ${age}`;
 console.log(aboutMe);

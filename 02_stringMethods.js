@@ -9,7 +9,7 @@ let firstName = "     dev     ";
 
 console.log(firstName.length);
 
-// firstName.trim() will not change existing string, it will give new string which does not have spaces.
+// firstName.trim() will not change existing string, it will give new string which does not have spaces
 firstName.trim();
 console.log(firstName);
 console.log(firstName.length);

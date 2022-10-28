@@ -14,7 +14,7 @@ let string2 = "10";
 
 let newStr = string1 + string2;
 
-// As string1 and string2 are strings numbers will not get add but they will be printed together as a new string.
+// As string1 and string2 are strings numbers will not get add but they will be printed together as a new string
 console.log(newStr);
 console.log(typeof newStr);
 

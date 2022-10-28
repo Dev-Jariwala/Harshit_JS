@@ -7,7 +7,7 @@
 // 6) BingInt
 // 7) Undefine
 
-// Non Premetive data type is Object in JavaScript.
+// Non Premetive data type is Object in JavaScript
 
 // --------------------------typeof_Operator----------------------------------------
 

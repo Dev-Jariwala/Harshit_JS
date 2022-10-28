@@ -1,4 +1,4 @@
-// String Indexing.
+// String Indexing
 
 let firstName = "Dev";
 

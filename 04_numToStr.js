@@ -2,7 +2,7 @@
 let age = 20;
 console.log(typeof age);
 
-// By just adding just string after number will make variable data type to string.
+// By just adding just string after number will make variable data type to string
 // age = age + "";
 // console.log(typeof age);
 
