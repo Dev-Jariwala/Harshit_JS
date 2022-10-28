@@ -1,4 +1,4 @@
-// Arrays .
+// Arrays 
 // orderd collection of items.
 
 let fruits = ["apple", "mango", "banana", "grapes", "kiwi"];

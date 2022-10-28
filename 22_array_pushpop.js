@@ -1,4 +1,4 @@
-// array push pop.
+// array push pop
 
   let fruits = ["apple", "mango", "banana", "grapes", "kiwi"];
   console.log(fruits);

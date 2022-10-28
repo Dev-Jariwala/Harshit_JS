@@ -1,4 +1,4 @@
-// Do While.
+// Do While
 
 let i = 10;
 
