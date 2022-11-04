@@ -19,7 +19,8 @@ const numbers = new Set();
   // but it will accept clones for example .
   numbers.add([1, 2, 3]);
   numbers.add([1, 2, 3]); // as they have different address in heap.
-  // has will return true if element is present set.
+  
+  // has will return true if element is present in set.
   console.log(numbers.has(1));
 // console.log(numbers);
 
